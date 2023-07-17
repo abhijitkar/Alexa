@@ -49,22 +49,19 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
+        photo=f"https://graph.org/file/39ba5739858e0f5097499.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
+
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+ᴏғ ♻️ 𓆩‎ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𓆪🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/Give_Me_Heart)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AsadSupport)
-┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/AlexaFed_Logs)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/TheTeamAlexa/AlexaAiMachineBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/Shayri_Music_Lovers)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ 𓆩‎ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𓆪 ](https://t.me/devil_active)
+┣★ ɴᴇᴛᴡᴏʀᴋ [Group](https://t.me/GoldenTreeGroup)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @devil_active""",
     ) 
 
 
